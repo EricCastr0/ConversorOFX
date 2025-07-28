@@ -31,7 +31,3 @@ O arquivo deve ter uma planilha chamada "pagamentos" com 29 colunas:
 - Banco: Itaú (código 341)
 - Moeda: BRL
 - Transações: Créditos (pagamentos) e Débitos (MDR)
-
-## 👨‍💻 Desenvolvedor
-
-Eric Castro 
